@@ -1,0 +1,6 @@
+org.kryptonmlt.ml
+org.kryptonmlt.ml.batchalg.regression
+org.kryptonmlt.ml.onlinealg.clustering
+org.kryptonmlt.ml.onlinealg.general
+org.kryptonmlt.ml.onlinealg.regression
+org.kryptonmlt.ml.onlinealg.utils
